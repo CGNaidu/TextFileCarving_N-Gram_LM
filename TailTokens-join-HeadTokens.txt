@@ -1,0 +1,528 @@
+Cluster0_Tail join Cluster0_Head:
+['stered', 'trademark', '.', 'It', 'may', 'only', 'be', 'used', 'on', 'or', 'associated', 'in', 'a', 'stolen', 'shoes', ',', 'and', 'Laughing', 'Jim', ',', 'the', 'strange', 'admixture', 'of', 'e']
+Cluster0_Tail join Cluster1_Head:
+['stered', 'trademark', '.', 'It', 'may', 'only', 'be', 'used', 'on', 'or', 'associated', 'in', 'a', 'Gutenberg', 'electronic', 'works', ',', 'and', 'the', 'medium', 'on', 'which', 'the']
+Cluster0_Tail join Cluster2_Head:
+['stered', 'trademark', '.', 'It', 'may', 'only', 'be', 'used', 'on', 'or', 'associated', 'in', 'alenced', 'by', 'the', 'chairman', ',', 'who', 'calmly', 'stated', 'that', 'for', 'purposes']
+Cluster0_Tail join Cluster3_Head:
+['stered', 'trademark', '.', 'It', 'may', 'only', 'be', 'used', 'on', 'or', 'associated', 'in', 'a', 'remain', 'freely', 'available', 'for', 'generations', 'to', 'come', '.', 'In', '2001', ',', 't']
+Cluster0_Tail join Cluster4_Head:
+['stered', 'trademark', '.', 'It', 'may', 'only', 'be', 'used', 'on', 'or', 'associated', 'in', 'arg', 'License', 'for', 'all', 'works', 'posted', 'with', 'the', 'permission', 'of', 't']
+Cluster0_Tail join Cluster5_Head:
+['stered', 'trademark', '.', 'It', 'may', 'only', 'be', 'used', 'on', 'or', 'associated', 'in', 'aom', 'George', ',', 'doffed', 'his', 'hat', ',', 'brought', 'his', 'heels', 'together', ',', 'and']
+Cluster0_Tail join Cluster6_Head:
+['stered', 'trademark', '.', 'It', 'may', 'only', 'be', 'used', 'on', 'or', 'associated', 'in', 'ad', 'whispered', 'to', 'us', ',', 'his', 'partners', ':', 'Come', 'on', ',', 'boys', '!', 'Ive', 'g']
+Cluster0_Tail join Cluster7_Head:
+['stered', 'trademark', '.', 'It', 'may', 'only', 'be', 'used', 'on', 'or', 'associated', 'in', 'aen', 'now', 'into', 'a', 'broad', 'ribbon', 'of', 'ice', ',', 'snow', '-', 'covered', ',', 'and', 'restin']
+Cluster0_Tail join Cluster8_Head:
+['stered', 'trademark', '.', 'It', 'may', 'only', 'be', 'used', 'on', 'or', 'associated', 'in', 'aad', '.', 'Mahoney', '.', 'But', 'I', 'got', 'him', '!', 'Hes', 'over', 'there', '!', 'H']
+Cluster0_Tail join Cluster9_Head:
+['stered', 'trademark', '.', 'It', 'may', 'only', 'be', 'used', 'on', 'or', 'associated', 'in', 'any', 'way', 'with', 'an', 'electronic', 'work', 'by', 'people', 'who', 'agree', 'to', 'be', 'bo']
+Cluster0_Tail join Cluster10_Head:
+['stered', 'trademark', '.', 'It', 'may', 'only', 'be', 'used', 'on', 'or', 'associated', 'in', 'aowl', ',', 'and', 'saw', 'him', 'swing', 'one', 'ponderous', 'fist', 'into', 'a', 'palm', '.']
+Cluster0_Tail join Cluster11_Head:
+['stered', 'trademark', '.', 'It', 'may', 'only', 'be', 'used', 'on', 'or', 'associated', 'in', 'a', '.', 'The', 'others', 'arrange', 'for', 'some', 'one', 'to', 'keep', 'an', 'eye', 'on', 'our', 'cab']
+Cluster0_Tail join Cluster12_Head:
+['stered', 'trademark', '.', 'It', 'may', 'only', 'be', 'used', 'on', 'or', 'associated', 'in', 'aThe', 'Project', 'Gutenberg', 'eBook', 'of', 'Gratitude', 'This', 'ebook', 'i']
+Cluster0_Tail join Cluster13_Head:
+['stered', 'trademark', '.', 'It', 'may', 'only', 'be', 'used', 'on', 'or', 'associated', 'in', 'atedly', ',', 'on', 'that', 'evening', ',', 'it', 'was', 'the', 'means', 'of', 'saving', 'the', 'life']
+Cluster0_Tail join Cluster14_Head:
+['stered', 'trademark', '.', 'It', 'may', 'only', 'be', 'used', 'on', 'or', 'associated', 'in', 'a', ',', 'and', 'the', 'clattering', 'of', 'dice', 'where', 'chuck', '-', 'a', '-', 'luck', 'held', 'forth', '.']
+Cluster0_Tail join Cluster15_Head:
+['stered', 'trademark', '.', 'It', 'may', 'only', 'be', 'used', 'on', 'or', 'associated', 'in', 'aed', ',', 'and', 'threw', 'the', 'last', 'shovelfuls', 'with', 'something', 'of', 'regret', ',']
+
+Cluster1_Tail join Cluster0_Head:
+['and', 'ensuring', 'that', 'the', 'Project', 'Gutenberg', 'collection', 'will', 'stolen', 'shoes', ',', 'and', 'Laughing', 'Jim', ',', 'the', 'strange', 'admixture', 'of', 'e']
+Cluster1_Tail join Cluster1_Head:
+['and', 'ensuring', 'that', 'the', 'Project', 'Gutenberg', 'collection', 'will', 'Gutenberg', 'electronic', 'works', ',', 'and', 'the', 'medium', 'on', 'which', 'the']
+Cluster1_Tail join Cluster2_Head:
+['and', 'ensuring', 'that', 'the', 'Project', 'Gutenberg', 'collection', 'will', 'lenced', 'by', 'the', 'chairman', ',', 'who', 'calmly', 'stated', 'that', 'for', 'purposes']
+Cluster1_Tail join Cluster3_Head:
+['and', 'ensuring', 'that', 'the', 'Project', 'Gutenberg', 'collection', 'will', 'remain', 'freely', 'available', 'for', 'generations', 'to', 'come', '.', 'In', '2001', ',', 't']
+Cluster1_Tail join Cluster4_Head:
+['and', 'ensuring', 'that', 'the', 'Project', 'Gutenberg', 'collection', 'will', 'rg', 'License', 'for', 'all', 'works', 'posted', 'with', 'the', 'permission', 'of', 't']
+Cluster1_Tail join Cluster5_Head:
+['and', 'ensuring', 'that', 'the', 'Project', 'Gutenberg', 'collection', 'will', 'om', 'George', ',', 'doffed', 'his', 'hat', ',', 'brought', 'his', 'heels', 'together', ',', 'and']
+Cluster1_Tail join Cluster6_Head:
+['and', 'ensuring', 'that', 'the', 'Project', 'Gutenberg', 'collection', 'will', 'd', 'whispered', 'to', 'us', ',', 'his', 'partners', ':', 'Come', 'on', ',', 'boys', '!', 'Ive', 'g']
+Cluster1_Tail join Cluster7_Head:
+['and', 'ensuring', 'that', 'the', 'Project', 'Gutenberg', 'collection', 'will', 'en', 'now', 'into', 'a', 'broad', 'ribbon', 'of', 'ice', ',', 'snow', '-', 'covered', ',', 'and', 'restin']
+Cluster1_Tail join Cluster8_Head:
+['and', 'ensuring', 'that', 'the', 'Project', 'Gutenberg', 'collection', 'will', 'ad', '.', 'Mahoney', '.', 'But', 'I', 'got', 'him', '!', 'Hes', 'over', 'there', '!', 'H']
+Cluster1_Tail join Cluster9_Head:
+['and', 'ensuring', 'that', 'the', 'Project', 'Gutenberg', 'collection', 'will', 'ny', 'way', 'with', 'an', 'electronic', 'work', 'by', 'people', 'who', 'agree', 'to', 'be', 'bo']
+Cluster1_Tail join Cluster10_Head:
+['and', 'ensuring', 'that', 'the', 'Project', 'Gutenberg', 'collection', 'will', 'owl', ',', 'and', 'saw', 'him', 'swing', 'one', 'ponderous', 'fist', 'into', 'a', 'palm', '.']
+Cluster1_Tail join Cluster11_Head:
+['and', 'ensuring', 'that', 'the', 'Project', 'Gutenberg', 'collection', 'will', '.', 'The', 'others', 'arrange', 'for', 'some', 'one', 'to', 'keep', 'an', 'eye', 'on', 'our', 'cab']
+Cluster1_Tail join Cluster12_Head:
+['and', 'ensuring', 'that', 'the', 'Project', 'Gutenberg', 'collection', 'will', 'The', 'Project', 'Gutenberg', 'eBook', 'of', 'Gratitude', 'This', 'ebook', 'i']
+Cluster1_Tail join Cluster13_Head:
+['and', 'ensuring', 'that', 'the', 'Project', 'Gutenberg', 'collection', 'will', 'tedly', ',', 'on', 'that', 'evening', ',', 'it', 'was', 'the', 'means', 'of', 'saving', 'the', 'life']
+Cluster1_Tail join Cluster14_Head:
+['and', 'ensuring', 'that', 'the', 'Project', 'Gutenberg', 'collection', 'will', ',', 'and', 'the', 'clattering', 'of', 'dice', 'where', 'chuck', '-', 'a', '-', 'luck', 'held', 'forth', '.']
+Cluster1_Tail join Cluster15_Head:
+['and', 'ensuring', 'that', 'the', 'Project', 'Gutenberg', 'collection', 'will', 'ed', ',', 'and', 'threw', 'the', 'last', 'shovelfuls', 'with', 'something', 'of', 'regret', ',']
+
+Cluster2_Tail join Cluster0_Head:
+['issipated', ',', 'he', 'slipped', 'the', 'gun', 'back', 'into', 'its', 'worn', 'holster', 'an', 'stolen', 'shoes', ',', 'and', 'Laughing', 'Jim', ',', 'the', 'strange', 'admixture', 'of', 'e']
+Cluster2_Tail join Cluster1_Head:
+['issipated', ',', 'he', 'slipped', 'the', 'gun', 'back', 'into', 'its', 'worn', 'holster', 'an', 'Gutenberg', 'electronic', 'works', ',', 'and', 'the', 'medium', 'on', 'which', 'the']
+Cluster2_Tail join Cluster2_Head:
+['issipated', ',', 'he', 'slipped', 'the', 'gun', 'back', 'into', 'its', 'worn', 'holster', 'anlenced', 'by', 'the', 'chairman', ',', 'who', 'calmly', 'stated', 'that', 'for', 'purposes']
+Cluster2_Tail join Cluster3_Head:
+['issipated', ',', 'he', 'slipped', 'the', 'gun', 'back', 'into', 'its', 'worn', 'holster', 'an', 'remain', 'freely', 'available', 'for', 'generations', 'to', 'come', '.', 'In', '2001', ',', 't']
+Cluster2_Tail join Cluster4_Head:
+['issipated', ',', 'he', 'slipped', 'the', 'gun', 'back', 'into', 'its', 'worn', 'holster', 'anrg', 'License', 'for', 'all', 'works', 'posted', 'with', 'the', 'permission', 'of', 't']
+Cluster2_Tail join Cluster5_Head:
+['issipated', ',', 'he', 'slipped', 'the', 'gun', 'back', 'into', 'its', 'worn', 'holster', 'anom', 'George', ',', 'doffed', 'his', 'hat', ',', 'brought', 'his', 'heels', 'together', ',', 'and']
+Cluster2_Tail join Cluster6_Head:
+['issipated', ',', 'he', 'slipped', 'the', 'gun', 'back', 'into', 'its', 'worn', 'holster', 'and', 'whispered', 'to', 'us', ',', 'his', 'partners', ':', 'Come', 'on', ',', 'boys', '!', 'Ive', 'g']
+Cluster2_Tail join Cluster7_Head:
+['issipated', ',', 'he', 'slipped', 'the', 'gun', 'back', 'into', 'its', 'worn', 'holster', 'anen', 'now', 'into', 'a', 'broad', 'ribbon', 'of', 'ice', ',', 'snow', '-', 'covered', ',', 'and', 'restin']
+Cluster2_Tail join Cluster8_Head:
+['issipated', ',', 'he', 'slipped', 'the', 'gun', 'back', 'into', 'its', 'worn', 'holster', 'anad', '.', 'Mahoney', '.', 'But', 'I', 'got', 'him', '!', 'Hes', 'over', 'there', '!', 'H']
+Cluster2_Tail join Cluster9_Head:
+['issipated', ',', 'he', 'slipped', 'the', 'gun', 'back', 'into', 'its', 'worn', 'holster', 'anny', 'way', 'with', 'an', 'electronic', 'work', 'by', 'people', 'who', 'agree', 'to', 'be', 'bo']
+Cluster2_Tail join Cluster10_Head:
+['issipated', ',', 'he', 'slipped', 'the', 'gun', 'back', 'into', 'its', 'worn', 'holster', 'anowl', ',', 'and', 'saw', 'him', 'swing', 'one', 'ponderous', 'fist', 'into', 'a', 'palm', '.']
+Cluster2_Tail join Cluster11_Head:
+['issipated', ',', 'he', 'slipped', 'the', 'gun', 'back', 'into', 'its', 'worn', 'holster', 'an', '.', 'The', 'others', 'arrange', 'for', 'some', 'one', 'to', 'keep', 'an', 'eye', 'on', 'our', 'cab']
+Cluster2_Tail join Cluster12_Head:
+['issipated', ',', 'he', 'slipped', 'the', 'gun', 'back', 'into', 'its', 'worn', 'holster', 'anThe', 'Project', 'Gutenberg', 'eBook', 'of', 'Gratitude', 'This', 'ebook', 'i']
+Cluster2_Tail join Cluster13_Head:
+['issipated', ',', 'he', 'slipped', 'the', 'gun', 'back', 'into', 'its', 'worn', 'holster', 'antedly', ',', 'on', 'that', 'evening', ',', 'it', 'was', 'the', 'means', 'of', 'saving', 'the', 'life']
+Cluster2_Tail join Cluster14_Head:
+['issipated', ',', 'he', 'slipped', 'the', 'gun', 'back', 'into', 'its', 'worn', 'holster', 'an', ',', 'and', 'the', 'clattering', 'of', 'dice', 'where', 'chuck', '-', 'a', '-', 'luck', 'held', 'forth', '.']
+Cluster2_Tail join Cluster15_Head:
+['issipated', ',', 'he', 'slipped', 'the', 'gun', 'back', 'into', 'its', 'worn', 'holster', 'aned', ',', 'and', 'threw', 'the', 'last', 'shovelfuls', 'with', 'something', 'of', 'regret', ',']
+
+Cluster3_Tail join Cluster0_Head:
+['subscribe', 'to', 'our', 'email', 'newsletter', 'to', 'hear', 'about', 'new', 'eBooks', '.', 'stolen', 'shoes', ',', 'and', 'Laughing', 'Jim', ',', 'the', 'strange', 'admixture', 'of', 'e']
+Cluster3_Tail join Cluster1_Head:
+['subscribe', 'to', 'our', 'email', 'newsletter', 'to', 'hear', 'about', 'new', 'eBooks', '.', 'Gutenberg', 'electronic', 'works', ',', 'and', 'the', 'medium', 'on', 'which', 'the']
+Cluster3_Tail join Cluster2_Head:
+['subscribe', 'to', 'our', 'email', 'newsletter', 'to', 'hear', 'about', 'new', 'eBooks', '.', 'lenced', 'by', 'the', 'chairman', ',', 'who', 'calmly', 'stated', 'that', 'for', 'purposes']
+Cluster3_Tail join Cluster3_Head:
+['subscribe', 'to', 'our', 'email', 'newsletter', 'to', 'hear', 'about', 'new', 'eBooks', '.', 'remain', 'freely', 'available', 'for', 'generations', 'to', 'come', '.', 'In', '2001', ',', 't']
+Cluster3_Tail join Cluster4_Head:
+['subscribe', 'to', 'our', 'email', 'newsletter', 'to', 'hear', 'about', 'new', 'eBooks', '.', 'rg', 'License', 'for', 'all', 'works', 'posted', 'with', 'the', 'permission', 'of', 't']
+Cluster3_Tail join Cluster5_Head:
+['subscribe', 'to', 'our', 'email', 'newsletter', 'to', 'hear', 'about', 'new', 'eBooks', '.', 'om', 'George', ',', 'doffed', 'his', 'hat', ',', 'brought', 'his', 'heels', 'together', ',', 'and']
+Cluster3_Tail join Cluster6_Head:
+['subscribe', 'to', 'our', 'email', 'newsletter', 'to', 'hear', 'about', 'new', 'eBooks', '.', 'd', 'whispered', 'to', 'us', ',', 'his', 'partners', ':', 'Come', 'on', ',', 'boys', '!', 'Ive', 'g']
+Cluster3_Tail join Cluster7_Head:
+['subscribe', 'to', 'our', 'email', 'newsletter', 'to', 'hear', 'about', 'new', 'eBooks', '.', 'en', 'now', 'into', 'a', 'broad', 'ribbon', 'of', 'ice', ',', 'snow', '-', 'covered', ',', 'and', 'restin']
+Cluster3_Tail join Cluster8_Head:
+['subscribe', 'to', 'our', 'email', 'newsletter', 'to', 'hear', 'about', 'new', 'eBooks', '.', 'ad', '.', 'Mahoney', '.', 'But', 'I', 'got', 'him', '!', 'Hes', 'over', 'there', '!', 'H']
+Cluster3_Tail join Cluster9_Head:
+['subscribe', 'to', 'our', 'email', 'newsletter', 'to', 'hear', 'about', 'new', 'eBooks', '.', 'ny', 'way', 'with', 'an', 'electronic', 'work', 'by', 'people', 'who', 'agree', 'to', 'be', 'bo']
+Cluster3_Tail join Cluster10_Head:
+['subscribe', 'to', 'our', 'email', 'newsletter', 'to', 'hear', 'about', 'new', 'eBooks', '.', 'owl', ',', 'and', 'saw', 'him', 'swing', 'one', 'ponderous', 'fist', 'into', 'a', 'palm', '.']
+Cluster3_Tail join Cluster11_Head:
+['subscribe', 'to', 'our', 'email', 'newsletter', 'to', 'hear', 'about', 'new', 'eBooks', '.', '.', 'The', 'others', 'arrange', 'for', 'some', 'one', 'to', 'keep', 'an', 'eye', 'on', 'our', 'cab']
+Cluster3_Tail join Cluster12_Head:
+['subscribe', 'to', 'our', 'email', 'newsletter', 'to', 'hear', 'about', 'new', 'eBooks', '.', 'The', 'Project', 'Gutenberg', 'eBook', 'of', 'Gratitude', 'This', 'ebook', 'i']
+Cluster3_Tail join Cluster13_Head:
+['subscribe', 'to', 'our', 'email', 'newsletter', 'to', 'hear', 'about', 'new', 'eBooks', '.', 'tedly', ',', 'on', 'that', 'evening', ',', 'it', 'was', 'the', 'means', 'of', 'saving', 'the', 'life']
+Cluster3_Tail join Cluster14_Head:
+['subscribe', 'to', 'our', 'email', 'newsletter', 'to', 'hear', 'about', 'new', 'eBooks', '.', ',', 'and', 'the', 'clattering', 'of', 'dice', 'where', 'chuck', '-', 'a', '-', 'luck', 'held', 'forth', '.']
+Cluster3_Tail join Cluster15_Head:
+['subscribe', 'to', 'our', 'email', 'newsletter', 'to', 'hear', 'about', 'new', 'eBooks', '.', 'ed', ',', 'and', 'threw', 'the', 'last', 'shovelfuls', 'with', 'something', 'of', 'regret', ',']
+
+Cluster4_Tail join Cluster0_Head:
+['ect', 'Gutenberg', 'collection', '.', 'Despite', 'these', 'efforts', ',', 'Project', 'stolen', 'shoes', ',', 'and', 'Laughing', 'Jim', ',', 'the', 'strange', 'admixture', 'of', 'e']
+Cluster4_Tail join Cluster1_Head:
+['ect', 'Gutenberg', 'collection', '.', 'Despite', 'these', 'efforts', ',', 'Project', 'Gutenberg', 'electronic', 'works', ',', 'and', 'the', 'medium', 'on', 'which', 'the']
+Cluster4_Tail join Cluster2_Head:
+['ect', 'Gutenberg', 'collection', '.', 'Despite', 'these', 'efforts', ',', 'Projectlenced', 'by', 'the', 'chairman', ',', 'who', 'calmly', 'stated', 'that', 'for', 'purposes']
+Cluster4_Tail join Cluster3_Head:
+['ect', 'Gutenberg', 'collection', '.', 'Despite', 'these', 'efforts', ',', 'Project', 'remain', 'freely', 'available', 'for', 'generations', 'to', 'come', '.', 'In', '2001', ',', 't']
+Cluster4_Tail join Cluster4_Head:
+['ect', 'Gutenberg', 'collection', '.', 'Despite', 'these', 'efforts', ',', 'Projectrg', 'License', 'for', 'all', 'works', 'posted', 'with', 'the', 'permission', 'of', 't']
+Cluster4_Tail join Cluster5_Head:
+['ect', 'Gutenberg', 'collection', '.', 'Despite', 'these', 'efforts', ',', 'Projectom', 'George', ',', 'doffed', 'his', 'hat', ',', 'brought', 'his', 'heels', 'together', ',', 'and']
+Cluster4_Tail join Cluster6_Head:
+['ect', 'Gutenberg', 'collection', '.', 'Despite', 'these', 'efforts', ',', 'Projectd', 'whispered', 'to', 'us', ',', 'his', 'partners', ':', 'Come', 'on', ',', 'boys', '!', 'Ive', 'g']
+Cluster4_Tail join Cluster7_Head:
+['ect', 'Gutenberg', 'collection', '.', 'Despite', 'these', 'efforts', ',', 'Projecten', 'now', 'into', 'a', 'broad', 'ribbon', 'of', 'ice', ',', 'snow', '-', 'covered', ',', 'and', 'restin']
+Cluster4_Tail join Cluster8_Head:
+['ect', 'Gutenberg', 'collection', '.', 'Despite', 'these', 'efforts', ',', 'Projectad', '.', 'Mahoney', '.', 'But', 'I', 'got', 'him', '!', 'Hes', 'over', 'there', '!', 'H']
+Cluster4_Tail join Cluster9_Head:
+['ect', 'Gutenberg', 'collection', '.', 'Despite', 'these', 'efforts', ',', 'Projectny', 'way', 'with', 'an', 'electronic', 'work', 'by', 'people', 'who', 'agree', 'to', 'be', 'bo']
+Cluster4_Tail join Cluster10_Head:
+['ect', 'Gutenberg', 'collection', '.', 'Despite', 'these', 'efforts', ',', 'Projectowl', ',', 'and', 'saw', 'him', 'swing', 'one', 'ponderous', 'fist', 'into', 'a', 'palm', '.']
+Cluster4_Tail join Cluster11_Head:
+['ect', 'Gutenberg', 'collection', '.', 'Despite', 'these', 'efforts', ',', 'Project', '.', 'The', 'others', 'arrange', 'for', 'some', 'one', 'to', 'keep', 'an', 'eye', 'on', 'our', 'cab']
+Cluster4_Tail join Cluster12_Head:
+['ect', 'Gutenberg', 'collection', '.', 'Despite', 'these', 'efforts', ',', 'ProjectThe', 'Project', 'Gutenberg', 'eBook', 'of', 'Gratitude', 'This', 'ebook', 'i']
+Cluster4_Tail join Cluster13_Head:
+['ect', 'Gutenberg', 'collection', '.', 'Despite', 'these', 'efforts', ',', 'Projecttedly', ',', 'on', 'that', 'evening', ',', 'it', 'was', 'the', 'means', 'of', 'saving', 'the', 'life']
+Cluster4_Tail join Cluster14_Head:
+['ect', 'Gutenberg', 'collection', '.', 'Despite', 'these', 'efforts', ',', 'Project', ',', 'and', 'the', 'clattering', 'of', 'dice', 'where', 'chuck', '-', 'a', '-', 'luck', 'held', 'forth', '.']
+Cluster4_Tail join Cluster15_Head:
+['ect', 'Gutenberg', 'collection', '.', 'Despite', 'these', 'efforts', ',', 'Projected', ',', 'and', 'threw', 'the', 'last', 'shovelfuls', 'with', 'something', 'of', 'regret', ',']
+
+Cluster5_Tail join Cluster0_Head:
+['merry', 'over', 'it', ',', 'this', 'last', 'day', ',', 'and', 'played', 'pranks', ',', 'and', 'loiter', 'stolen', 'shoes', ',', 'and', 'Laughing', 'Jim', ',', 'the', 'strange', 'admixture', 'of', 'e']
+Cluster5_Tail join Cluster1_Head:
+['merry', 'over', 'it', ',', 'this', 'last', 'day', ',', 'and', 'played', 'pranks', ',', 'and', 'loiter', 'Gutenberg', 'electronic', 'works', ',', 'and', 'the', 'medium', 'on', 'which', 'the']
+Cluster5_Tail join Cluster2_Head:
+['merry', 'over', 'it', ',', 'this', 'last', 'day', ',', 'and', 'played', 'pranks', ',', 'and', 'loiterlenced', 'by', 'the', 'chairman', ',', 'who', 'calmly', 'stated', 'that', 'for', 'purposes']
+Cluster5_Tail join Cluster3_Head:
+['merry', 'over', 'it', ',', 'this', 'last', 'day', ',', 'and', 'played', 'pranks', ',', 'and', 'loiter', 'remain', 'freely', 'available', 'for', 'generations', 'to', 'come', '.', 'In', '2001', ',', 't']
+Cluster5_Tail join Cluster4_Head:
+['merry', 'over', 'it', ',', 'this', 'last', 'day', ',', 'and', 'played', 'pranks', ',', 'and', 'loiterrg', 'License', 'for', 'all', 'works', 'posted', 'with', 'the', 'permission', 'of', 't']
+Cluster5_Tail join Cluster5_Head:
+['merry', 'over', 'it', ',', 'this', 'last', 'day', ',', 'and', 'played', 'pranks', ',', 'and', 'loiterom', 'George', ',', 'doffed', 'his', 'hat', ',', 'brought', 'his', 'heels', 'together', ',', 'and']
+Cluster5_Tail join Cluster6_Head:
+['merry', 'over', 'it', ',', 'this', 'last', 'day', ',', 'and', 'played', 'pranks', ',', 'and', 'loiterd', 'whispered', 'to', 'us', ',', 'his', 'partners', ':', 'Come', 'on', ',', 'boys', '!', 'Ive', 'g']
+Cluster5_Tail join Cluster7_Head:
+['merry', 'over', 'it', ',', 'this', 'last', 'day', ',', 'and', 'played', 'pranks', ',', 'and', 'loiteren', 'now', 'into', 'a', 'broad', 'ribbon', 'of', 'ice', ',', 'snow', '-', 'covered', ',', 'and', 'restin']
+Cluster5_Tail join Cluster8_Head:
+['merry', 'over', 'it', ',', 'this', 'last', 'day', ',', 'and', 'played', 'pranks', ',', 'and', 'loiterad', '.', 'Mahoney', '.', 'But', 'I', 'got', 'him', '!', 'Hes', 'over', 'there', '!', 'H']
+Cluster5_Tail join Cluster9_Head:
+['merry', 'over', 'it', ',', 'this', 'last', 'day', ',', 'and', 'played', 'pranks', ',', 'and', 'loiterny', 'way', 'with', 'an', 'electronic', 'work', 'by', 'people', 'who', 'agree', 'to', 'be', 'bo']
+Cluster5_Tail join Cluster10_Head:
+['merry', 'over', 'it', ',', 'this', 'last', 'day', ',', 'and', 'played', 'pranks', ',', 'and', 'loiterowl', ',', 'and', 'saw', 'him', 'swing', 'one', 'ponderous', 'fist', 'into', 'a', 'palm', '.']
+Cluster5_Tail join Cluster11_Head:
+['merry', 'over', 'it', ',', 'this', 'last', 'day', ',', 'and', 'played', 'pranks', ',', 'and', 'loiter', '.', 'The', 'others', 'arrange', 'for', 'some', 'one', 'to', 'keep', 'an', 'eye', 'on', 'our', 'cab']
+Cluster5_Tail join Cluster12_Head:
+['merry', 'over', 'it', ',', 'this', 'last', 'day', ',', 'and', 'played', 'pranks', ',', 'and', 'loiterThe', 'Project', 'Gutenberg', 'eBook', 'of', 'Gratitude', 'This', 'ebook', 'i']
+Cluster5_Tail join Cluster13_Head:
+['merry', 'over', 'it', ',', 'this', 'last', 'day', ',', 'and', 'played', 'pranks', ',', 'and', 'loitertedly', ',', 'on', 'that', 'evening', ',', 'it', 'was', 'the', 'means', 'of', 'saving', 'the', 'life']
+Cluster5_Tail join Cluster14_Head:
+['merry', 'over', 'it', ',', 'this', 'last', 'day', ',', 'and', 'played', 'pranks', ',', 'and', 'loiter', ',', 'and', 'the', 'clattering', 'of', 'dice', 'where', 'chuck', '-', 'a', '-', 'luck', 'held', 'forth', '.']
+Cluster5_Tail join Cluster15_Head:
+['merry', 'over', 'it', ',', 'this', 'last', 'day', ',', 'and', 'played', 'pranks', ',', 'and', 'loitered', ',', 'and', 'threw', 'the', 'last', 'shovelfuls', 'with', 'something', 'of', 'regret', ',']
+
+Cluster6_Tail join Cluster0_Head:
+['emphatic', 'fist', 'on', 'the', 'bar', '.', 'Quite', 'mockingly', 'he', 'backed', 'away', 'fr', 'stolen', 'shoes', ',', 'and', 'Laughing', 'Jim', ',', 'the', 'strange', 'admixture', 'of', 'e']
+Cluster6_Tail join Cluster1_Head:
+['emphatic', 'fist', 'on', 'the', 'bar', '.', 'Quite', 'mockingly', 'he', 'backed', 'away', 'fr', 'Gutenberg', 'electronic', 'works', ',', 'and', 'the', 'medium', 'on', 'which', 'the']
+Cluster6_Tail join Cluster2_Head:
+['emphatic', 'fist', 'on', 'the', 'bar', '.', 'Quite', 'mockingly', 'he', 'backed', 'away', 'frlenced', 'by', 'the', 'chairman', ',', 'who', 'calmly', 'stated', 'that', 'for', 'purposes']
+Cluster6_Tail join Cluster3_Head:
+['emphatic', 'fist', 'on', 'the', 'bar', '.', 'Quite', 'mockingly', 'he', 'backed', 'away', 'fr', 'remain', 'freely', 'available', 'for', 'generations', 'to', 'come', '.', 'In', '2001', ',', 't']
+Cluster6_Tail join Cluster4_Head:
+['emphatic', 'fist', 'on', 'the', 'bar', '.', 'Quite', 'mockingly', 'he', 'backed', 'away', 'frrg', 'License', 'for', 'all', 'works', 'posted', 'with', 'the', 'permission', 'of', 't']
+Cluster6_Tail join Cluster5_Head:
+['emphatic', 'fist', 'on', 'the', 'bar', '.', 'Quite', 'mockingly', 'he', 'backed', 'away', 'from', 'George', ',', 'doffed', 'his', 'hat', ',', 'brought', 'his', 'heels', 'together', ',', 'and']
+Cluster6_Tail join Cluster6_Head:
+['emphatic', 'fist', 'on', 'the', 'bar', '.', 'Quite', 'mockingly', 'he', 'backed', 'away', 'frd', 'whispered', 'to', 'us', ',', 'his', 'partners', ':', 'Come', 'on', ',', 'boys', '!', 'Ive', 'g']
+Cluster6_Tail join Cluster7_Head:
+['emphatic', 'fist', 'on', 'the', 'bar', '.', 'Quite', 'mockingly', 'he', 'backed', 'away', 'fren', 'now', 'into', 'a', 'broad', 'ribbon', 'of', 'ice', ',', 'snow', '-', 'covered', ',', 'and', 'restin']
+Cluster6_Tail join Cluster8_Head:
+['emphatic', 'fist', 'on', 'the', 'bar', '.', 'Quite', 'mockingly', 'he', 'backed', 'away', 'frad', '.', 'Mahoney', '.', 'But', 'I', 'got', 'him', '!', 'Hes', 'over', 'there', '!', 'H']
+Cluster6_Tail join Cluster9_Head:
+['emphatic', 'fist', 'on', 'the', 'bar', '.', 'Quite', 'mockingly', 'he', 'backed', 'away', 'frny', 'way', 'with', 'an', 'electronic', 'work', 'by', 'people', 'who', 'agree', 'to', 'be', 'bo']
+Cluster6_Tail join Cluster10_Head:
+['emphatic', 'fist', 'on', 'the', 'bar', '.', 'Quite', 'mockingly', 'he', 'backed', 'away', 'frowl', ',', 'and', 'saw', 'him', 'swing', 'one', 'ponderous', 'fist', 'into', 'a', 'palm', '.']
+Cluster6_Tail join Cluster11_Head:
+['emphatic', 'fist', 'on', 'the', 'bar', '.', 'Quite', 'mockingly', 'he', 'backed', 'away', 'fr', '.', 'The', 'others', 'arrange', 'for', 'some', 'one', 'to', 'keep', 'an', 'eye', 'on', 'our', 'cab']
+Cluster6_Tail join Cluster12_Head:
+['emphatic', 'fist', 'on', 'the', 'bar', '.', 'Quite', 'mockingly', 'he', 'backed', 'away', 'frThe', 'Project', 'Gutenberg', 'eBook', 'of', 'Gratitude', 'This', 'ebook', 'i']
+Cluster6_Tail join Cluster13_Head:
+['emphatic', 'fist', 'on', 'the', 'bar', '.', 'Quite', 'mockingly', 'he', 'backed', 'away', 'frtedly', ',', 'on', 'that', 'evening', ',', 'it', 'was', 'the', 'means', 'of', 'saving', 'the', 'life']
+Cluster6_Tail join Cluster14_Head:
+['emphatic', 'fist', 'on', 'the', 'bar', '.', 'Quite', 'mockingly', 'he', 'backed', 'away', 'fr', ',', 'and', 'the', 'clattering', 'of', 'dice', 'where', 'chuck', '-', 'a', '-', 'luck', 'held', 'forth', '.']
+Cluster6_Tail join Cluster15_Head:
+['emphatic', 'fist', 'on', 'the', 'bar', '.', 'Quite', 'mockingly', 'he', 'backed', 'away', 'fred', ',', 'and', 'threw', 'the', 'last', 'shovelfuls', 'with', 'something', 'of', 'regret', ',']
+
+Cluster7_Tail join Cluster0_Head:
+['hom', 'was', 'Phil', 'Mahoney', ',', 'began', 'shouting', 'arguments', ';', 'but', 'were', 'si', 'stolen', 'shoes', ',', 'and', 'Laughing', 'Jim', ',', 'the', 'strange', 'admixture', 'of', 'e']
+Cluster7_Tail join Cluster1_Head:
+['hom', 'was', 'Phil', 'Mahoney', ',', 'began', 'shouting', 'arguments', ';', 'but', 'were', 'si', 'Gutenberg', 'electronic', 'works', ',', 'and', 'the', 'medium', 'on', 'which', 'the']
+Cluster7_Tail join Cluster2_Head:
+['hom', 'was', 'Phil', 'Mahoney', ',', 'began', 'shouting', 'arguments', ';', 'but', 'were', 'silenced', 'by', 'the', 'chairman', ',', 'who', 'calmly', 'stated', 'that', 'for', 'purposes']
+Cluster7_Tail join Cluster3_Head:
+['hom', 'was', 'Phil', 'Mahoney', ',', 'began', 'shouting', 'arguments', ';', 'but', 'were', 'si', 'remain', 'freely', 'available', 'for', 'generations', 'to', 'come', '.', 'In', '2001', ',', 't']
+Cluster7_Tail join Cluster4_Head:
+['hom', 'was', 'Phil', 'Mahoney', ',', 'began', 'shouting', 'arguments', ';', 'but', 'were', 'sirg', 'License', 'for', 'all', 'works', 'posted', 'with', 'the', 'permission', 'of', 't']
+Cluster7_Tail join Cluster5_Head:
+['hom', 'was', 'Phil', 'Mahoney', ',', 'began', 'shouting', 'arguments', ';', 'but', 'were', 'siom', 'George', ',', 'doffed', 'his', 'hat', ',', 'brought', 'his', 'heels', 'together', ',', 'and']
+Cluster7_Tail join Cluster6_Head:
+['hom', 'was', 'Phil', 'Mahoney', ',', 'began', 'shouting', 'arguments', ';', 'but', 'were', 'sid', 'whispered', 'to', 'us', ',', 'his', 'partners', ':', 'Come', 'on', ',', 'boys', '!', 'Ive', 'g']
+Cluster7_Tail join Cluster7_Head:
+['hom', 'was', 'Phil', 'Mahoney', ',', 'began', 'shouting', 'arguments', ';', 'but', 'were', 'sien', 'now', 'into', 'a', 'broad', 'ribbon', 'of', 'ice', ',', 'snow', '-', 'covered', ',', 'and', 'restin']
+Cluster7_Tail join Cluster8_Head:
+['hom', 'was', 'Phil', 'Mahoney', ',', 'began', 'shouting', 'arguments', ';', 'but', 'were', 'siad', '.', 'Mahoney', '.', 'But', 'I', 'got', 'him', '!', 'Hes', 'over', 'there', '!', 'H']
+Cluster7_Tail join Cluster9_Head:
+['hom', 'was', 'Phil', 'Mahoney', ',', 'began', 'shouting', 'arguments', ';', 'but', 'were', 'siny', 'way', 'with', 'an', 'electronic', 'work', 'by', 'people', 'who', 'agree', 'to', 'be', 'bo']
+Cluster7_Tail join Cluster10_Head:
+['hom', 'was', 'Phil', 'Mahoney', ',', 'began', 'shouting', 'arguments', ';', 'but', 'were', 'siowl', ',', 'and', 'saw', 'him', 'swing', 'one', 'ponderous', 'fist', 'into', 'a', 'palm', '.']
+Cluster7_Tail join Cluster11_Head:
+['hom', 'was', 'Phil', 'Mahoney', ',', 'began', 'shouting', 'arguments', ';', 'but', 'were', 'si', '.', 'The', 'others', 'arrange', 'for', 'some', 'one', 'to', 'keep', 'an', 'eye', 'on', 'our', 'cab']
+Cluster7_Tail join Cluster12_Head:
+['hom', 'was', 'Phil', 'Mahoney', ',', 'began', 'shouting', 'arguments', ';', 'but', 'were', 'siThe', 'Project', 'Gutenberg', 'eBook', 'of', 'Gratitude', 'This', 'ebook', 'i']
+Cluster7_Tail join Cluster13_Head:
+['hom', 'was', 'Phil', 'Mahoney', ',', 'began', 'shouting', 'arguments', ';', 'but', 'were', 'sitedly', ',', 'on', 'that', 'evening', ',', 'it', 'was', 'the', 'means', 'of', 'saving', 'the', 'life']
+Cluster7_Tail join Cluster14_Head:
+['hom', 'was', 'Phil', 'Mahoney', ',', 'began', 'shouting', 'arguments', ';', 'but', 'were', 'si', ',', 'and', 'the', 'clattering', 'of', 'dice', 'where', 'chuck', '-', 'a', '-', 'luck', 'held', 'forth', '.']
+Cluster7_Tail join Cluster15_Head:
+['hom', 'was', 'Phil', 'Mahoney', ',', 'began', 'shouting', 'arguments', ';', 'but', 'were', 'sied', ',', 'and', 'threw', 'the', 'last', 'shovelfuls', 'with', 'something', 'of', 'regret', ',']
+
+Cluster8_Tail join Cluster0_Head:
+['es', 'its', 'beaten', 'winter', 'trails', ',', 'Phil', 'Mahoney', ',', 'the', 'thief', ',', 'in', 'his', 'stolen', 'shoes', ',', 'and', 'Laughing', 'Jim', ',', 'the', 'strange', 'admixture', 'of', 'e']
+Cluster8_Tail join Cluster1_Head:
+['es', 'its', 'beaten', 'winter', 'trails', ',', 'Phil', 'Mahoney', ',', 'the', 'thief', ',', 'in', 'his', 'Gutenberg', 'electronic', 'works', ',', 'and', 'the', 'medium', 'on', 'which', 'the']
+Cluster8_Tail join Cluster2_Head:
+['es', 'its', 'beaten', 'winter', 'trails', ',', 'Phil', 'Mahoney', ',', 'the', 'thief', ',', 'in', 'hislenced', 'by', 'the', 'chairman', ',', 'who', 'calmly', 'stated', 'that', 'for', 'purposes']
+Cluster8_Tail join Cluster3_Head:
+['es', 'its', 'beaten', 'winter', 'trails', ',', 'Phil', 'Mahoney', ',', 'the', 'thief', ',', 'in', 'his', 'remain', 'freely', 'available', 'for', 'generations', 'to', 'come', '.', 'In', '2001', ',', 't']
+Cluster8_Tail join Cluster4_Head:
+['es', 'its', 'beaten', 'winter', 'trails', ',', 'Phil', 'Mahoney', ',', 'the', 'thief', ',', 'in', 'hisrg', 'License', 'for', 'all', 'works', 'posted', 'with', 'the', 'permission', 'of', 't']
+Cluster8_Tail join Cluster5_Head:
+['es', 'its', 'beaten', 'winter', 'trails', ',', 'Phil', 'Mahoney', ',', 'the', 'thief', ',', 'in', 'hisom', 'George', ',', 'doffed', 'his', 'hat', ',', 'brought', 'his', 'heels', 'together', ',', 'and']
+Cluster8_Tail join Cluster6_Head:
+['es', 'its', 'beaten', 'winter', 'trails', ',', 'Phil', 'Mahoney', ',', 'the', 'thief', ',', 'in', 'hisd', 'whispered', 'to', 'us', ',', 'his', 'partners', ':', 'Come', 'on', ',', 'boys', '!', 'Ive', 'g']
+Cluster8_Tail join Cluster7_Head:
+['es', 'its', 'beaten', 'winter', 'trails', ',', 'Phil', 'Mahoney', ',', 'the', 'thief', ',', 'in', 'hisen', 'now', 'into', 'a', 'broad', 'ribbon', 'of', 'ice', ',', 'snow', '-', 'covered', ',', 'and', 'restin']
+Cluster8_Tail join Cluster8_Head:
+['es', 'its', 'beaten', 'winter', 'trails', ',', 'Phil', 'Mahoney', ',', 'the', 'thief', ',', 'in', 'hisad', '.', 'Mahoney', '.', 'But', 'I', 'got', 'him', '!', 'Hes', 'over', 'there', '!', 'H']
+Cluster8_Tail join Cluster9_Head:
+['es', 'its', 'beaten', 'winter', 'trails', ',', 'Phil', 'Mahoney', ',', 'the', 'thief', ',', 'in', 'hisny', 'way', 'with', 'an', 'electronic', 'work', 'by', 'people', 'who', 'agree', 'to', 'be', 'bo']
+Cluster8_Tail join Cluster10_Head:
+['es', 'its', 'beaten', 'winter', 'trails', ',', 'Phil', 'Mahoney', ',', 'the', 'thief', ',', 'in', 'hisowl', ',', 'and', 'saw', 'him', 'swing', 'one', 'ponderous', 'fist', 'into', 'a', 'palm', '.']
+Cluster8_Tail join Cluster11_Head:
+['es', 'its', 'beaten', 'winter', 'trails', ',', 'Phil', 'Mahoney', ',', 'the', 'thief', ',', 'in', 'his', '.', 'The', 'others', 'arrange', 'for', 'some', 'one', 'to', 'keep', 'an', 'eye', 'on', 'our', 'cab']
+Cluster8_Tail join Cluster12_Head:
+['es', 'its', 'beaten', 'winter', 'trails', ',', 'Phil', 'Mahoney', ',', 'the', 'thief', ',', 'in', 'hisThe', 'Project', 'Gutenberg', 'eBook', 'of', 'Gratitude', 'This', 'ebook', 'i']
+Cluster8_Tail join Cluster13_Head:
+['es', 'its', 'beaten', 'winter', 'trails', ',', 'Phil', 'Mahoney', ',', 'the', 'thief', ',', 'in', 'histedly', ',', 'on', 'that', 'evening', ',', 'it', 'was', 'the', 'means', 'of', 'saving', 'the', 'life']
+Cluster8_Tail join Cluster14_Head:
+['es', 'its', 'beaten', 'winter', 'trails', ',', 'Phil', 'Mahoney', ',', 'the', 'thief', ',', 'in', 'his', ',', 'and', 'the', 'clattering', 'of', 'dice', 'where', 'chuck', '-', 'a', '-', 'luck', 'held', 'forth', '.']
+Cluster8_Tail join Cluster15_Head:
+['es', 'its', 'beaten', 'winter', 'trails', ',', 'Phil', 'Mahoney', ',', 'the', 'thief', ',', 'in', 'hised', ',', 'and', 'threw', 'the', 'last', 'shovelfuls', 'with', 'something', 'of', 'regret', ',']
+
+Cluster9_Tail join Cluster0_Head:
+['der', '.', 'Additional', 'terms', 'will', 'be', 'linked', 'to', 'the', 'Project', 'Gutenbe', 'stolen', 'shoes', ',', 'and', 'Laughing', 'Jim', ',', 'the', 'strange', 'admixture', 'of', 'e']
+Cluster9_Tail join Cluster1_Head:
+['der', '.', 'Additional', 'terms', 'will', 'be', 'linked', 'to', 'the', 'Project', 'Gutenbe', 'Gutenberg', 'electronic', 'works', ',', 'and', 'the', 'medium', 'on', 'which', 'the']
+Cluster9_Tail join Cluster2_Head:
+['der', '.', 'Additional', 'terms', 'will', 'be', 'linked', 'to', 'the', 'Project', 'Gutenbelenced', 'by', 'the', 'chairman', ',', 'who', 'calmly', 'stated', 'that', 'for', 'purposes']
+Cluster9_Tail join Cluster3_Head:
+['der', '.', 'Additional', 'terms', 'will', 'be', 'linked', 'to', 'the', 'Project', 'Gutenbe', 'remain', 'freely', 'available', 'for', 'generations', 'to', 'come', '.', 'In', '2001', ',', 't']
+Cluster9_Tail join Cluster4_Head:
+['der', '.', 'Additional', 'terms', 'will', 'be', 'linked', 'to', 'the', 'Project', 'Gutenberg', 'License', 'for', 'all', 'works', 'posted', 'with', 'the', 'permission', 'of', 't']
+Cluster9_Tail join Cluster5_Head:
+['der', '.', 'Additional', 'terms', 'will', 'be', 'linked', 'to', 'the', 'Project', 'Gutenbeom', 'George', ',', 'doffed', 'his', 'hat', ',', 'brought', 'his', 'heels', 'together', ',', 'and']
+Cluster9_Tail join Cluster6_Head:
+['der', '.', 'Additional', 'terms', 'will', 'be', 'linked', 'to', 'the', 'Project', 'Gutenbed', 'whispered', 'to', 'us', ',', 'his', 'partners', ':', 'Come', 'on', ',', 'boys', '!', 'Ive', 'g']
+Cluster9_Tail join Cluster7_Head:
+['der', '.', 'Additional', 'terms', 'will', 'be', 'linked', 'to', 'the', 'Project', 'Gutenbeen', 'now', 'into', 'a', 'broad', 'ribbon', 'of', 'ice', ',', 'snow', '-', 'covered', ',', 'and', 'restin']
+Cluster9_Tail join Cluster8_Head:
+['der', '.', 'Additional', 'terms', 'will', 'be', 'linked', 'to', 'the', 'Project', 'Gutenbead', '.', 'Mahoney', '.', 'But', 'I', 'got', 'him', '!', 'Hes', 'over', 'there', '!', 'H']
+Cluster9_Tail join Cluster9_Head:
+['der', '.', 'Additional', 'terms', 'will', 'be', 'linked', 'to', 'the', 'Project', 'Gutenbeny', 'way', 'with', 'an', 'electronic', 'work', 'by', 'people', 'who', 'agree', 'to', 'be', 'bo']
+Cluster9_Tail join Cluster10_Head:
+['der', '.', 'Additional', 'terms', 'will', 'be', 'linked', 'to', 'the', 'Project', 'Gutenbeowl', ',', 'and', 'saw', 'him', 'swing', 'one', 'ponderous', 'fist', 'into', 'a', 'palm', '.']
+Cluster9_Tail join Cluster11_Head:
+['der', '.', 'Additional', 'terms', 'will', 'be', 'linked', 'to', 'the', 'Project', 'Gutenbe', '.', 'The', 'others', 'arrange', 'for', 'some', 'one', 'to', 'keep', 'an', 'eye', 'on', 'our', 'cab']
+Cluster9_Tail join Cluster12_Head:
+['der', '.', 'Additional', 'terms', 'will', 'be', 'linked', 'to', 'the', 'Project', 'GutenbeThe', 'Project', 'Gutenberg', 'eBook', 'of', 'Gratitude', 'This', 'ebook', 'i']
+Cluster9_Tail join Cluster13_Head:
+['der', '.', 'Additional', 'terms', 'will', 'be', 'linked', 'to', 'the', 'Project', 'Gutenbetedly', ',', 'on', 'that', 'evening', ',', 'it', 'was', 'the', 'means', 'of', 'saving', 'the', 'life']
+Cluster9_Tail join Cluster14_Head:
+['der', '.', 'Additional', 'terms', 'will', 'be', 'linked', 'to', 'the', 'Project', 'Gutenbe', ',', 'and', 'the', 'clattering', 'of', 'dice', 'where', 'chuck', '-', 'a', '-', 'luck', 'held', 'forth', '.']
+Cluster9_Tail join Cluster15_Head:
+['der', '.', 'Additional', 'terms', 'will', 'be', 'linked', 'to', 'the', 'Project', 'Gutenbeed', ',', 'and', 'threw', 'the', 'last', 'shovelfuls', 'with', 'something', 'of', 'regret', ',']
+
+Cluster10_Tail join Cluster0_Head:
+['l', 'hundred', 'miles', 'to', 'do', 'it', 'in', '.', 'Two', 'of', 'us', 'better', 'rustle', 'a', 'boat', 'stolen', 'shoes', ',', 'and', 'Laughing', 'Jim', ',', 'the', 'strange', 'admixture', 'of', 'e']
+Cluster10_Tail join Cluster1_Head:
+['l', 'hundred', 'miles', 'to', 'do', 'it', 'in', '.', 'Two', 'of', 'us', 'better', 'rustle', 'a', 'boat', 'Gutenberg', 'electronic', 'works', ',', 'and', 'the', 'medium', 'on', 'which', 'the']
+Cluster10_Tail join Cluster2_Head:
+['l', 'hundred', 'miles', 'to', 'do', 'it', 'in', '.', 'Two', 'of', 'us', 'better', 'rustle', 'a', 'boatlenced', 'by', 'the', 'chairman', ',', 'who', 'calmly', 'stated', 'that', 'for', 'purposes']
+Cluster10_Tail join Cluster3_Head:
+['l', 'hundred', 'miles', 'to', 'do', 'it', 'in', '.', 'Two', 'of', 'us', 'better', 'rustle', 'a', 'boat', 'remain', 'freely', 'available', 'for', 'generations', 'to', 'come', '.', 'In', '2001', ',', 't']
+Cluster10_Tail join Cluster4_Head:
+['l', 'hundred', 'miles', 'to', 'do', 'it', 'in', '.', 'Two', 'of', 'us', 'better', 'rustle', 'a', 'boatrg', 'License', 'for', 'all', 'works', 'posted', 'with', 'the', 'permission', 'of', 't']
+Cluster10_Tail join Cluster5_Head:
+['l', 'hundred', 'miles', 'to', 'do', 'it', 'in', '.', 'Two', 'of', 'us', 'better', 'rustle', 'a', 'boatom', 'George', ',', 'doffed', 'his', 'hat', ',', 'brought', 'his', 'heels', 'together', ',', 'and']
+Cluster10_Tail join Cluster6_Head:
+['l', 'hundred', 'miles', 'to', 'do', 'it', 'in', '.', 'Two', 'of', 'us', 'better', 'rustle', 'a', 'boatd', 'whispered', 'to', 'us', ',', 'his', 'partners', ':', 'Come', 'on', ',', 'boys', '!', 'Ive', 'g']
+Cluster10_Tail join Cluster7_Head:
+['l', 'hundred', 'miles', 'to', 'do', 'it', 'in', '.', 'Two', 'of', 'us', 'better', 'rustle', 'a', 'boaten', 'now', 'into', 'a', 'broad', 'ribbon', 'of', 'ice', ',', 'snow', '-', 'covered', ',', 'and', 'restin']
+Cluster10_Tail join Cluster8_Head:
+['l', 'hundred', 'miles', 'to', 'do', 'it', 'in', '.', 'Two', 'of', 'us', 'better', 'rustle', 'a', 'boatad', '.', 'Mahoney', '.', 'But', 'I', 'got', 'him', '!', 'Hes', 'over', 'there', '!', 'H']
+Cluster10_Tail join Cluster9_Head:
+['l', 'hundred', 'miles', 'to', 'do', 'it', 'in', '.', 'Two', 'of', 'us', 'better', 'rustle', 'a', 'boatny', 'way', 'with', 'an', 'electronic', 'work', 'by', 'people', 'who', 'agree', 'to', 'be', 'bo']
+Cluster10_Tail join Cluster10_Head:
+['l', 'hundred', 'miles', 'to', 'do', 'it', 'in', '.', 'Two', 'of', 'us', 'better', 'rustle', 'a', 'boatowl', ',', 'and', 'saw', 'him', 'swing', 'one', 'ponderous', 'fist', 'into', 'a', 'palm', '.']
+Cluster10_Tail join Cluster11_Head:
+['l', 'hundred', 'miles', 'to', 'do', 'it', 'in', '.', 'Two', 'of', 'us', 'better', 'rustle', 'a', 'boat', '.', 'The', 'others', 'arrange', 'for', 'some', 'one', 'to', 'keep', 'an', 'eye', 'on', 'our', 'cab']
+Cluster10_Tail join Cluster12_Head:
+['l', 'hundred', 'miles', 'to', 'do', 'it', 'in', '.', 'Two', 'of', 'us', 'better', 'rustle', 'a', 'boatThe', 'Project', 'Gutenberg', 'eBook', 'of', 'Gratitude', 'This', 'ebook', 'i']
+Cluster10_Tail join Cluster13_Head:
+['l', 'hundred', 'miles', 'to', 'do', 'it', 'in', '.', 'Two', 'of', 'us', 'better', 'rustle', 'a', 'boattedly', ',', 'on', 'that', 'evening', ',', 'it', 'was', 'the', 'means', 'of', 'saving', 'the', 'life']
+Cluster10_Tail join Cluster14_Head:
+['l', 'hundred', 'miles', 'to', 'do', 'it', 'in', '.', 'Two', 'of', 'us', 'better', 'rustle', 'a', 'boat', ',', 'and', 'the', 'clattering', 'of', 'dice', 'where', 'chuck', '-', 'a', '-', 'luck', 'held', 'forth', '.']
+Cluster10_Tail join Cluster15_Head:
+['l', 'hundred', 'miles', 'to', 'do', 'it', 'in', '.', 'Two', 'of', 'us', 'better', 'rustle', 'a', 'boated', ',', 'and', 'threw', 'the', 'last', 'shovelfuls', 'with', 'something', 'of', 'regret', ',']
+
+Cluster11_Tail join Cluster0_Head:
+['George', ',', 'still', 'supporting', 'the', 'dying', 'mans', 'shoulders', 'and', 'he', 'stolen', 'shoes', ',', 'and', 'Laughing', 'Jim', ',', 'the', 'strange', 'admixture', 'of', 'e']
+Cluster11_Tail join Cluster1_Head:
+['George', ',', 'still', 'supporting', 'the', 'dying', 'mans', 'shoulders', 'and', 'he', 'Gutenberg', 'electronic', 'works', ',', 'and', 'the', 'medium', 'on', 'which', 'the']
+Cluster11_Tail join Cluster2_Head:
+['George', ',', 'still', 'supporting', 'the', 'dying', 'mans', 'shoulders', 'and', 'helenced', 'by', 'the', 'chairman', ',', 'who', 'calmly', 'stated', 'that', 'for', 'purposes']
+Cluster11_Tail join Cluster3_Head:
+['George', ',', 'still', 'supporting', 'the', 'dying', 'mans', 'shoulders', 'and', 'he', 'remain', 'freely', 'available', 'for', 'generations', 'to', 'come', '.', 'In', '2001', ',', 't']
+Cluster11_Tail join Cluster4_Head:
+['George', ',', 'still', 'supporting', 'the', 'dying', 'mans', 'shoulders', 'and', 'herg', 'License', 'for', 'all', 'works', 'posted', 'with', 'the', 'permission', 'of', 't']
+Cluster11_Tail join Cluster5_Head:
+['George', ',', 'still', 'supporting', 'the', 'dying', 'mans', 'shoulders', 'and', 'heom', 'George', ',', 'doffed', 'his', 'hat', ',', 'brought', 'his', 'heels', 'together', ',', 'and']
+Cluster11_Tail join Cluster6_Head:
+['George', ',', 'still', 'supporting', 'the', 'dying', 'mans', 'shoulders', 'and', 'hed', 'whispered', 'to', 'us', ',', 'his', 'partners', ':', 'Come', 'on', ',', 'boys', '!', 'Ive', 'g']
+Cluster11_Tail join Cluster7_Head:
+['George', ',', 'still', 'supporting', 'the', 'dying', 'mans', 'shoulders', 'and', 'heen', 'now', 'into', 'a', 'broad', 'ribbon', 'of', 'ice', ',', 'snow', '-', 'covered', ',', 'and', 'restin']
+Cluster11_Tail join Cluster8_Head:
+['George', ',', 'still', 'supporting', 'the', 'dying', 'mans', 'shoulders', 'and', 'head', '.', 'Mahoney', '.', 'But', 'I', 'got', 'him', '!', 'Hes', 'over', 'there', '!', 'H']
+Cluster11_Tail join Cluster9_Head:
+['George', ',', 'still', 'supporting', 'the', 'dying', 'mans', 'shoulders', 'and', 'heny', 'way', 'with', 'an', 'electronic', 'work', 'by', 'people', 'who', 'agree', 'to', 'be', 'bo']
+Cluster11_Tail join Cluster10_Head:
+['George', ',', 'still', 'supporting', 'the', 'dying', 'mans', 'shoulders', 'and', 'heowl', ',', 'and', 'saw', 'him', 'swing', 'one', 'ponderous', 'fist', 'into', 'a', 'palm', '.']
+Cluster11_Tail join Cluster11_Head:
+['George', ',', 'still', 'supporting', 'the', 'dying', 'mans', 'shoulders', 'and', 'he', '.', 'The', 'others', 'arrange', 'for', 'some', 'one', 'to', 'keep', 'an', 'eye', 'on', 'our', 'cab']
+Cluster11_Tail join Cluster12_Head:
+['George', ',', 'still', 'supporting', 'the', 'dying', 'mans', 'shoulders', 'and', 'heThe', 'Project', 'Gutenberg', 'eBook', 'of', 'Gratitude', 'This', 'ebook', 'i']
+Cluster11_Tail join Cluster13_Head:
+['George', ',', 'still', 'supporting', 'the', 'dying', 'mans', 'shoulders', 'and', 'hetedly', ',', 'on', 'that', 'evening', ',', 'it', 'was', 'the', 'means', 'of', 'saving', 'the', 'life']
+Cluster11_Tail join Cluster14_Head:
+['George', ',', 'still', 'supporting', 'the', 'dying', 'mans', 'shoulders', 'and', 'he', ',', 'and', 'the', 'clattering', 'of', 'dice', 'where', 'chuck', '-', 'a', '-', 'luck', 'held', 'forth', '.']
+Cluster11_Tail join Cluster15_Head:
+['George', ',', 'still', 'supporting', 'the', 'dying', 'mans', 'shoulders', 'and', 'heed', ',', 'and', 'threw', 'the', 'last', 'shovelfuls', 'with', 'something', 'of', 'regret', ',']
+
+Cluster12_Tail join Cluster0_Head:
+['s', ',', 'the', 'persistent', 'clacking', 'of', 'chips', 'and', 'markers', 'at', 'the', 'bank', 'stolen', 'shoes', ',', 'and', 'Laughing', 'Jim', ',', 'the', 'strange', 'admixture', 'of', 'e']
+Cluster12_Tail join Cluster1_Head:
+['s', ',', 'the', 'persistent', 'clacking', 'of', 'chips', 'and', 'markers', 'at', 'the', 'bank', 'Gutenberg', 'electronic', 'works', ',', 'and', 'the', 'medium', 'on', 'which', 'the']
+Cluster12_Tail join Cluster2_Head:
+['s', ',', 'the', 'persistent', 'clacking', 'of', 'chips', 'and', 'markers', 'at', 'the', 'banklenced', 'by', 'the', 'chairman', ',', 'who', 'calmly', 'stated', 'that', 'for', 'purposes']
+Cluster12_Tail join Cluster3_Head:
+['s', ',', 'the', 'persistent', 'clacking', 'of', 'chips', 'and', 'markers', 'at', 'the', 'bank', 'remain', 'freely', 'available', 'for', 'generations', 'to', 'come', '.', 'In', '2001', ',', 't']
+Cluster12_Tail join Cluster4_Head:
+['s', ',', 'the', 'persistent', 'clacking', 'of', 'chips', 'and', 'markers', 'at', 'the', 'bankrg', 'License', 'for', 'all', 'works', 'posted', 'with', 'the', 'permission', 'of', 't']
+Cluster12_Tail join Cluster5_Head:
+['s', ',', 'the', 'persistent', 'clacking', 'of', 'chips', 'and', 'markers', 'at', 'the', 'bankom', 'George', ',', 'doffed', 'his', 'hat', ',', 'brought', 'his', 'heels', 'together', ',', 'and']
+Cluster12_Tail join Cluster6_Head:
+['s', ',', 'the', 'persistent', 'clacking', 'of', 'chips', 'and', 'markers', 'at', 'the', 'bankd', 'whispered', 'to', 'us', ',', 'his', 'partners', ':', 'Come', 'on', ',', 'boys', '!', 'Ive', 'g']
+Cluster12_Tail join Cluster7_Head:
+['s', ',', 'the', 'persistent', 'clacking', 'of', 'chips', 'and', 'markers', 'at', 'the', 'banken', 'now', 'into', 'a', 'broad', 'ribbon', 'of', 'ice', ',', 'snow', '-', 'covered', ',', 'and', 'restin']
+Cluster12_Tail join Cluster8_Head:
+['s', ',', 'the', 'persistent', 'clacking', 'of', 'chips', 'and', 'markers', 'at', 'the', 'bankad', '.', 'Mahoney', '.', 'But', 'I', 'got', 'him', '!', 'Hes', 'over', 'there', '!', 'H']
+Cluster12_Tail join Cluster9_Head:
+['s', ',', 'the', 'persistent', 'clacking', 'of', 'chips', 'and', 'markers', 'at', 'the', 'bankny', 'way', 'with', 'an', 'electronic', 'work', 'by', 'people', 'who', 'agree', 'to', 'be', 'bo']
+Cluster12_Tail join Cluster10_Head:
+['s', ',', 'the', 'persistent', 'clacking', 'of', 'chips', 'and', 'markers', 'at', 'the', 'bankowl', ',', 'and', 'saw', 'him', 'swing', 'one', 'ponderous', 'fist', 'into', 'a', 'palm', '.']
+Cluster12_Tail join Cluster11_Head:
+['s', ',', 'the', 'persistent', 'clacking', 'of', 'chips', 'and', 'markers', 'at', 'the', 'bank', '.', 'The', 'others', 'arrange', 'for', 'some', 'one', 'to', 'keep', 'an', 'eye', 'on', 'our', 'cab']
+Cluster12_Tail join Cluster12_Head:
+['s', ',', 'the', 'persistent', 'clacking', 'of', 'chips', 'and', 'markers', 'at', 'the', 'bankThe', 'Project', 'Gutenberg', 'eBook', 'of', 'Gratitude', 'This', 'ebook', 'i']
+Cluster12_Tail join Cluster13_Head:
+['s', ',', 'the', 'persistent', 'clacking', 'of', 'chips', 'and', 'markers', 'at', 'the', 'banktedly', ',', 'on', 'that', 'evening', ',', 'it', 'was', 'the', 'means', 'of', 'saving', 'the', 'life']
+Cluster12_Tail join Cluster14_Head:
+['s', ',', 'the', 'persistent', 'clacking', 'of', 'chips', 'and', 'markers', 'at', 'the', 'bank', ',', 'and', 'the', 'clattering', 'of', 'dice', 'where', 'chuck', '-', 'a', '-', 'luck', 'held', 'forth', '.']
+Cluster12_Tail join Cluster15_Head:
+['s', ',', 'the', 'persistent', 'clacking', 'of', 'chips', 'and', 'markers', 'at', 'the', 'banked', ',', 'and', 'threw', 'the', 'last', 'shovelfuls', 'with', 'something', 'of', 'regret', ',']
+
+Cluster13_Tail join Cluster0_Head:
+[',', 'regardless', 'of', 'streets', ',', 'on', 'the', 'flat', 'facing', 'the', 'river', '--', 'froz', 'stolen', 'shoes', ',', 'and', 'Laughing', 'Jim', ',', 'the', 'strange', 'admixture', 'of', 'e']
+Cluster13_Tail join Cluster1_Head:
+[',', 'regardless', 'of', 'streets', ',', 'on', 'the', 'flat', 'facing', 'the', 'river', '--', 'froz', 'Gutenberg', 'electronic', 'works', ',', 'and', 'the', 'medium', 'on', 'which', 'the']
+Cluster13_Tail join Cluster2_Head:
+[',', 'regardless', 'of', 'streets', ',', 'on', 'the', 'flat', 'facing', 'the', 'river', '--', 'frozlenced', 'by', 'the', 'chairman', ',', 'who', 'calmly', 'stated', 'that', 'for', 'purposes']
+Cluster13_Tail join Cluster3_Head:
+[',', 'regardless', 'of', 'streets', ',', 'on', 'the', 'flat', 'facing', 'the', 'river', '--', 'froz', 'remain', 'freely', 'available', 'for', 'generations', 'to', 'come', '.', 'In', '2001', ',', 't']
+Cluster13_Tail join Cluster4_Head:
+[',', 'regardless', 'of', 'streets', ',', 'on', 'the', 'flat', 'facing', 'the', 'river', '--', 'frozrg', 'License', 'for', 'all', 'works', 'posted', 'with', 'the', 'permission', 'of', 't']
+Cluster13_Tail join Cluster5_Head:
+[',', 'regardless', 'of', 'streets', ',', 'on', 'the', 'flat', 'facing', 'the', 'river', '--', 'frozom', 'George', ',', 'doffed', 'his', 'hat', ',', 'brought', 'his', 'heels', 'together', ',', 'and']
+Cluster13_Tail join Cluster6_Head:
+[',', 'regardless', 'of', 'streets', ',', 'on', 'the', 'flat', 'facing', 'the', 'river', '--', 'frozd', 'whispered', 'to', 'us', ',', 'his', 'partners', ':', 'Come', 'on', ',', 'boys', '!', 'Ive', 'g']
+Cluster13_Tail join Cluster7_Head:
+[',', 'regardless', 'of', 'streets', ',', 'on', 'the', 'flat', 'facing', 'the', 'river', '--', 'frozen', 'now', 'into', 'a', 'broad', 'ribbon', 'of', 'ice', ',', 'snow', '-', 'covered', ',', 'and', 'restin']
+Cluster13_Tail join Cluster8_Head:
+[',', 'regardless', 'of', 'streets', ',', 'on', 'the', 'flat', 'facing', 'the', 'river', '--', 'frozad', '.', 'Mahoney', '.', 'But', 'I', 'got', 'him', '!', 'Hes', 'over', 'there', '!', 'H']
+Cluster13_Tail join Cluster9_Head:
+[',', 'regardless', 'of', 'streets', ',', 'on', 'the', 'flat', 'facing', 'the', 'river', '--', 'frozny', 'way', 'with', 'an', 'electronic', 'work', 'by', 'people', 'who', 'agree', 'to', 'be', 'bo']
+Cluster13_Tail join Cluster10_Head:
+[',', 'regardless', 'of', 'streets', ',', 'on', 'the', 'flat', 'facing', 'the', 'river', '--', 'frozowl', ',', 'and', 'saw', 'him', 'swing', 'one', 'ponderous', 'fist', 'into', 'a', 'palm', '.']
+Cluster13_Tail join Cluster11_Head:
+[',', 'regardless', 'of', 'streets', ',', 'on', 'the', 'flat', 'facing', 'the', 'river', '--', 'froz', '.', 'The', 'others', 'arrange', 'for', 'some', 'one', 'to', 'keep', 'an', 'eye', 'on', 'our', 'cab']
+Cluster13_Tail join Cluster12_Head:
+[',', 'regardless', 'of', 'streets', ',', 'on', 'the', 'flat', 'facing', 'the', 'river', '--', 'frozThe', 'Project', 'Gutenberg', 'eBook', 'of', 'Gratitude', 'This', 'ebook', 'i']
+Cluster13_Tail join Cluster13_Head:
+[',', 'regardless', 'of', 'streets', ',', 'on', 'the', 'flat', 'facing', 'the', 'river', '--', 'froztedly', ',', 'on', 'that', 'evening', ',', 'it', 'was', 'the', 'means', 'of', 'saving', 'the', 'life']
+Cluster13_Tail join Cluster14_Head:
+[',', 'regardless', 'of', 'streets', ',', 'on', 'the', 'flat', 'facing', 'the', 'river', '--', 'froz', ',', 'and', 'the', 'clattering', 'of', 'dice', 'where', 'chuck', '-', 'a', '-', 'luck', 'held', 'forth', '.']
+Cluster13_Tail join Cluster15_Head:
+[',', 'regardless', 'of', 'streets', ',', 'on', 'the', 'flat', 'facing', 'the', 'river', '--', 'frozed', ',', 'and', 'threw', 'the', 'last', 'shovelfuls', 'with', 'something', 'of', 'regret', ',']
+
+Cluster14_Tail join Cluster0_Head:
+['who', 'knew', 'him', 'up', 'and', 'down', 'the', 'long', 'Northwestern', 'coast', '.', 'Undoub', 'stolen', 'shoes', ',', 'and', 'Laughing', 'Jim', ',', 'the', 'strange', 'admixture', 'of', 'e']
+Cluster14_Tail join Cluster1_Head:
+['who', 'knew', 'him', 'up', 'and', 'down', 'the', 'long', 'Northwestern', 'coast', '.', 'Undoub', 'Gutenberg', 'electronic', 'works', ',', 'and', 'the', 'medium', 'on', 'which', 'the']
+Cluster14_Tail join Cluster2_Head:
+['who', 'knew', 'him', 'up', 'and', 'down', 'the', 'long', 'Northwestern', 'coast', '.', 'Undoublenced', 'by', 'the', 'chairman', ',', 'who', 'calmly', 'stated', 'that', 'for', 'purposes']
+Cluster14_Tail join Cluster3_Head:
+['who', 'knew', 'him', 'up', 'and', 'down', 'the', 'long', 'Northwestern', 'coast', '.', 'Undoub', 'remain', 'freely', 'available', 'for', 'generations', 'to', 'come', '.', 'In', '2001', ',', 't']
+Cluster14_Tail join Cluster4_Head:
+['who', 'knew', 'him', 'up', 'and', 'down', 'the', 'long', 'Northwestern', 'coast', '.', 'Undoubrg', 'License', 'for', 'all', 'works', 'posted', 'with', 'the', 'permission', 'of', 't']
+Cluster14_Tail join Cluster5_Head:
+['who', 'knew', 'him', 'up', 'and', 'down', 'the', 'long', 'Northwestern', 'coast', '.', 'Undoubom', 'George', ',', 'doffed', 'his', 'hat', ',', 'brought', 'his', 'heels', 'together', ',', 'and']
+Cluster14_Tail join Cluster6_Head:
+['who', 'knew', 'him', 'up', 'and', 'down', 'the', 'long', 'Northwestern', 'coast', '.', 'Undoubd', 'whispered', 'to', 'us', ',', 'his', 'partners', ':', 'Come', 'on', ',', 'boys', '!', 'Ive', 'g']
+Cluster14_Tail join Cluster7_Head:
+['who', 'knew', 'him', 'up', 'and', 'down', 'the', 'long', 'Northwestern', 'coast', '.', 'Undouben', 'now', 'into', 'a', 'broad', 'ribbon', 'of', 'ice', ',', 'snow', '-', 'covered', ',', 'and', 'restin']
+Cluster14_Tail join Cluster8_Head:
+['who', 'knew', 'him', 'up', 'and', 'down', 'the', 'long', 'Northwestern', 'coast', '.', 'Undoubad', '.', 'Mahoney', '.', 'But', 'I', 'got', 'him', '!', 'Hes', 'over', 'there', '!', 'H']
+Cluster14_Tail join Cluster9_Head:
+['who', 'knew', 'him', 'up', 'and', 'down', 'the', 'long', 'Northwestern', 'coast', '.', 'Undoubny', 'way', 'with', 'an', 'electronic', 'work', 'by', 'people', 'who', 'agree', 'to', 'be', 'bo']
+Cluster14_Tail join Cluster10_Head:
+['who', 'knew', 'him', 'up', 'and', 'down', 'the', 'long', 'Northwestern', 'coast', '.', 'Undoubowl', ',', 'and', 'saw', 'him', 'swing', 'one', 'ponderous', 'fist', 'into', 'a', 'palm', '.']
+Cluster14_Tail join Cluster11_Head:
+['who', 'knew', 'him', 'up', 'and', 'down', 'the', 'long', 'Northwestern', 'coast', '.', 'Undoub', '.', 'The', 'others', 'arrange', 'for', 'some', 'one', 'to', 'keep', 'an', 'eye', 'on', 'our', 'cab']
+Cluster14_Tail join Cluster12_Head:
+['who', 'knew', 'him', 'up', 'and', 'down', 'the', 'long', 'Northwestern', 'coast', '.', 'UndoubThe', 'Project', 'Gutenberg', 'eBook', 'of', 'Gratitude', 'This', 'ebook', 'i']
+Cluster14_Tail join Cluster13_Head:
+['who', 'knew', 'him', 'up', 'and', 'down', 'the', 'long', 'Northwestern', 'coast', '.', 'Undoubtedly', ',', 'on', 'that', 'evening', ',', 'it', 'was', 'the', 'means', 'of', 'saving', 'the', 'life']
+Cluster14_Tail join Cluster14_Head:
+['who', 'knew', 'him', 'up', 'and', 'down', 'the', 'long', 'Northwestern', 'coast', '.', 'Undoub', ',', 'and', 'the', 'clattering', 'of', 'dice', 'where', 'chuck', '-', 'a', '-', 'luck', 'held', 'forth', '.']
+Cluster14_Tail join Cluster15_Head:
+['who', 'knew', 'him', 'up', 'and', 'down', 'the', 'long', 'Northwestern', 'coast', '.', 'Undoubed', ',', 'and', 'threw', 'the', 'last', 'shovelfuls', 'with', 'something', 'of', 'regret', ',']
+
+Cluster15_Tail join Cluster0_Head:
+['and', 'I', 'saw', 'the', 'hurt', 'look', 'on', 'his', 'face', 'give', 'way', 'to', 'an', 'angry', 'sc', 'stolen', 'shoes', ',', 'and', 'Laughing', 'Jim', ',', 'the', 'strange', 'admixture', 'of', 'e']
+Cluster15_Tail join Cluster1_Head:
+['and', 'I', 'saw', 'the', 'hurt', 'look', 'on', 'his', 'face', 'give', 'way', 'to', 'an', 'angry', 'sc', 'Gutenberg', 'electronic', 'works', ',', 'and', 'the', 'medium', 'on', 'which', 'the']
+Cluster15_Tail join Cluster2_Head:
+['and', 'I', 'saw', 'the', 'hurt', 'look', 'on', 'his', 'face', 'give', 'way', 'to', 'an', 'angry', 'sclenced', 'by', 'the', 'chairman', ',', 'who', 'calmly', 'stated', 'that', 'for', 'purposes']
+Cluster15_Tail join Cluster3_Head:
+['and', 'I', 'saw', 'the', 'hurt', 'look', 'on', 'his', 'face', 'give', 'way', 'to', 'an', 'angry', 'sc', 'remain', 'freely', 'available', 'for', 'generations', 'to', 'come', '.', 'In', '2001', ',', 't']
+Cluster15_Tail join Cluster4_Head:
+['and', 'I', 'saw', 'the', 'hurt', 'look', 'on', 'his', 'face', 'give', 'way', 'to', 'an', 'angry', 'scrg', 'License', 'for', 'all', 'works', 'posted', 'with', 'the', 'permission', 'of', 't']
+Cluster15_Tail join Cluster5_Head:
+['and', 'I', 'saw', 'the', 'hurt', 'look', 'on', 'his', 'face', 'give', 'way', 'to', 'an', 'angry', 'scom', 'George', ',', 'doffed', 'his', 'hat', ',', 'brought', 'his', 'heels', 'together', ',', 'and']
+Cluster15_Tail join Cluster6_Head:
+['and', 'I', 'saw', 'the', 'hurt', 'look', 'on', 'his', 'face', 'give', 'way', 'to', 'an', 'angry', 'scd', 'whispered', 'to', 'us', ',', 'his', 'partners', ':', 'Come', 'on', ',', 'boys', '!', 'Ive', 'g']
+Cluster15_Tail join Cluster7_Head:
+['and', 'I', 'saw', 'the', 'hurt', 'look', 'on', 'his', 'face', 'give', 'way', 'to', 'an', 'angry', 'scen', 'now', 'into', 'a', 'broad', 'ribbon', 'of', 'ice', ',', 'snow', '-', 'covered', ',', 'and', 'restin']
+Cluster15_Tail join Cluster8_Head:
+['and', 'I', 'saw', 'the', 'hurt', 'look', 'on', 'his', 'face', 'give', 'way', 'to', 'an', 'angry', 'scad', '.', 'Mahoney', '.', 'But', 'I', 'got', 'him', '!', 'Hes', 'over', 'there', '!', 'H']
+Cluster15_Tail join Cluster9_Head:
+['and', 'I', 'saw', 'the', 'hurt', 'look', 'on', 'his', 'face', 'give', 'way', 'to', 'an', 'angry', 'scny', 'way', 'with', 'an', 'electronic', 'work', 'by', 'people', 'who', 'agree', 'to', 'be', 'bo']
+Cluster15_Tail join Cluster10_Head:
+['and', 'I', 'saw', 'the', 'hurt', 'look', 'on', 'his', 'face', 'give', 'way', 'to', 'an', 'angry', 'scowl', ',', 'and', 'saw', 'him', 'swing', 'one', 'ponderous', 'fist', 'into', 'a', 'palm', '.']
+Cluster15_Tail join Cluster11_Head:
+['and', 'I', 'saw', 'the', 'hurt', 'look', 'on', 'his', 'face', 'give', 'way', 'to', 'an', 'angry', 'sc', '.', 'The', 'others', 'arrange', 'for', 'some', 'one', 'to', 'keep', 'an', 'eye', 'on', 'our', 'cab']
+Cluster15_Tail join Cluster12_Head:
+['and', 'I', 'saw', 'the', 'hurt', 'look', 'on', 'his', 'face', 'give', 'way', 'to', 'an', 'angry', 'scThe', 'Project', 'Gutenberg', 'eBook', 'of', 'Gratitude', 'This', 'ebook', 'i']
+Cluster15_Tail join Cluster13_Head:
+['and', 'I', 'saw', 'the', 'hurt', 'look', 'on', 'his', 'face', 'give', 'way', 'to', 'an', 'angry', 'sctedly', ',', 'on', 'that', 'evening', ',', 'it', 'was', 'the', 'means', 'of', 'saving', 'the', 'life']
+Cluster15_Tail join Cluster14_Head:
+['and', 'I', 'saw', 'the', 'hurt', 'look', 'on', 'his', 'face', 'give', 'way', 'to', 'an', 'angry', 'sc', ',', 'and', 'the', 'clattering', 'of', 'dice', 'where', 'chuck', '-', 'a', '-', 'luck', 'held', 'forth', '.']
+Cluster15_Tail join Cluster15_Head:
+['and', 'I', 'saw', 'the', 'hurt', 'look', 'on', 'his', 'face', 'give', 'way', 'to', 'an', 'angry', 'sced', ',', 'and', 'threw', 'the', 'last', 'shovelfuls', 'with', 'something', 'of', 'regret', ',']
+

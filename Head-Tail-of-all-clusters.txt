@@ -1,0 +1,48 @@
+Cluster0, Block11:
+HEAD:['stolen', 'shoes', ',', 'and', 'Laughing', 'Jim', ',', 'the', 'strange', 'admixture', 'of', 'e']
+TAIL:['stered', 'trademark', '.', 'It', 'may', 'only', 'be', 'used', 'on', 'or', 'associated', 'in', 'a']
+Cluster1, Block14:
+HEAD:['Gutenberg', 'electronic', 'works', ',', 'and', 'the', 'medium', 'on', 'which', 'the']
+TAIL:['and', 'ensuring', 'that', 'the', 'Project', 'Gutenberg', 'collection', 'will']
+Cluster2, Block4:
+HEAD:['lenced', 'by', 'the', 'chairman', ',', 'who', 'calmly', 'stated', 'that', 'for', 'purposes']
+TAIL:['issipated', ',', 'he', 'slipped', 'the', 'gun', 'back', 'into', 'its', 'worn', 'holster', 'an']
+Cluster3, Block15:
+HEAD:['remain', 'freely', 'available', 'for', 'generations', 'to', 'come', '.', 'In', '2001', ',', 't']
+TAIL:['subscribe', 'to', 'our', 'email', 'newsletter', 'to', 'hear', 'about', 'new', 'eBooks', '.']
+Cluster4, Block13:
+HEAD:['rg', 'License', 'for', 'all', 'works', 'posted', 'with', 'the', 'permission', 'of', 't']
+TAIL:['ect', 'Gutenberg', 'collection', '.', 'Despite', 'these', 'efforts', ',', 'Project']
+Cluster5, Block6:
+HEAD:['om', 'George', ',', 'doffed', 'his', 'hat', ',', 'brought', 'his', 'heels', 'together', ',', 'and']
+TAIL:['merry', 'over', 'it', ',', 'this', 'last', 'day', ',', 'and', 'played', 'pranks', ',', 'and', 'loiter']
+Cluster6, Block5:
+HEAD:['d', 'whispered', 'to', 'us', ',', 'his', 'partners', ':', 'Come', 'on', ',', 'boys', '!', 'Ive', 'g']
+TAIL:['emphatic', 'fist', 'on', 'the', 'bar', '.', 'Quite', 'mockingly', 'he', 'backed', 'away', 'fr']
+Cluster7, Block3:
+HEAD:['en', 'now', 'into', 'a', 'broad', 'ribbon', 'of', 'ice', ',', 'snow', '-', 'covered', ',', 'and', 'restin']
+TAIL:['hom', 'was', 'Phil', 'Mahoney', ',', 'began', 'shouting', 'arguments', ';', 'but', 'were', 'si']
+Cluster8, Block10:
+HEAD:['ad', '.', 'Mahoney', '.', 'But', 'I', 'got', 'him', '!', 'Hes', 'over', 'there', '!', 'H']
+TAIL:['es', 'its', 'beaten', 'winter', 'trails', ',', 'Phil', 'Mahoney', ',', 'the', 'thief', ',', 'in', 'his']
+Cluster9, Block12:
+HEAD:['ny', 'way', 'with', 'an', 'electronic', 'work', 'by', 'people', 'who', 'agree', 'to', 'be', 'bo']
+TAIL:['der', '.', 'Additional', 'terms', 'will', 'be', 'linked', 'to', 'the', 'Project', 'Gutenbe']
+Cluster10, Block8:
+HEAD:['owl', ',', 'and', 'saw', 'him', 'swing', 'one', 'ponderous', 'fist', 'into', 'a', 'palm', '.']
+TAIL:['l', 'hundred', 'miles', 'to', 'do', 'it', 'in', '.', 'Two', 'of', 'us', 'better', 'rustle', 'a', 'boat']
+Cluster11, Block9:
+HEAD:['.', 'The', 'others', 'arrange', 'for', 'some', 'one', 'to', 'keep', 'an', 'eye', 'on', 'our', 'cab']
+TAIL:['George', ',', 'still', 'supporting', 'the', 'dying', 'mans', 'shoulders', 'and', 'he']
+Cluster12, Block0:
+HEAD:['The', 'Project', 'Gutenberg', 'eBook', 'of', 'Gratitude', 'This', 'ebook', 'i']
+TAIL:['s', ',', 'the', 'persistent', 'clacking', 'of', 'chips', 'and', 'markers', 'at', 'the', 'bank']
+Cluster13, Block2:
+HEAD:['tedly', ',', 'on', 'that', 'evening', ',', 'it', 'was', 'the', 'means', 'of', 'saving', 'the', 'life']
+TAIL:[',', 'regardless', 'of', 'streets', ',', 'on', 'the', 'flat', 'facing', 'the', 'river', '--', 'froz']
+Cluster14, Block1:
+HEAD:[',', 'and', 'the', 'clattering', 'of', 'dice', 'where', 'chuck', '-', 'a', '-', 'luck', 'held', 'forth', '.']
+TAIL:['who', 'knew', 'him', 'up', 'and', 'down', 'the', 'long', 'Northwestern', 'coast', '.', 'Undoub']
+Cluster15, Block7:
+HEAD:['ed', ',', 'and', 'threw', 'the', 'last', 'shovelfuls', 'with', 'something', 'of', 'regret', ',']
+TAIL:['and', 'I', 'saw', 'the', 'hurt', 'look', 'on', 'his', 'face', 'give', 'way', 'to', 'an', 'angry', 'sc']
